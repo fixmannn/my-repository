@@ -5,3 +5,5 @@ Hello this is my resolution in 2021
 - Learn CSS framework
 - Learn JS Framework
 - Learn php framework
+- Learn REST API
+
