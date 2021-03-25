@@ -1,0 +1,7 @@
+Hello this is my resolution in 2021
+
+- Learn Javascript
+- Learn php
+- Learn CSS framework
+- Learn JS Framework
+- Learn php framework
